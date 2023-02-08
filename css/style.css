@@ -33,7 +33,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 700px;
+    height: 958px;
 }
 
 img {
@@ -149,7 +149,7 @@ a:hover {
     color: var(--Cyan)
 }
 
-@media screen and(min-width: 375px) and (max-width: 1440px) 
+@media screen and (min-width:375px)
 {
     .section-content {
         /* border: 1px solid red; */
