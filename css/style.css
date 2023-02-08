@@ -149,6 +149,10 @@ a:hover {
     color: var(--Cyan)
 }
 
-@media screen and (min-width: 375px;) {
-    
+@media screen and(min-width: 375px) and (max-width: 1440px) 
+{
+    .section-content {
+        /* border: 1px solid red; */
+        background-color: var(--Very-dark-blue-20); 
+}  
 }  
